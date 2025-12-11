@@ -31,7 +31,7 @@ fn solve(input: &str) {
 
 fn main() {
     print!("[Sample] ");
-    solve(include_str!("../../input/input.sample.txt"));
+    solve(include_str!("../../input/input.sample.1.txt"));
     print!("[Real] ");
     solve(include_str!("../../input/input.real.txt"));
 }
